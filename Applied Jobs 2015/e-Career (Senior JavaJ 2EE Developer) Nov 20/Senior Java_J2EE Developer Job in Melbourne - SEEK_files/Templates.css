@@ -1,0 +1,44 @@
+.videoembed,#VideoJobAd{display:block;height:310px;padding:5px 0;text-align:center;width:100%}
+#jobadControl .videoembed{border:1px solid #ccc}
+.jobtitle,.subheading,.details,#AdDetailsDiv ul.templatebulletnormal,#AdDetailsDiv ul.templatebullet{color:#000;word-wrap:break-word}
+ul.templatebulletnormal,.templatetext,#AdDetailsDiv p{font-size:10pt;font-weight:normal;word-wrap:break-word}
+.jobtitle{font-size:20pt;font-weight:bold}
+.subheading{font-size:15pt;font-weight:bold}
+.templatetext h2{font-size:21px;font-weight:bold;color:#000;margin:0}
+ul.templatebullet{font-size:9pt;font-weight:bold}
+.templatetext li,.templatebullet li,.templatebulletnormal li,#AdDetailsDiv table ul li{list-style-position:outside;list-style:disc;margin-left:14px}
+.templatetext ul,.templatetext ol{margin-top:8px}
+.templatetext ol li,#AdDetailsDiv table ol li{list-style-position:outside;list-style:decimal;margin-left:20px}
+.details{font-size:8pt;font-weight:normal;word-wrap:break-word}
+#AdDetailsDiv blockquote,.tempmargin{margin:0 30px;padding:10px 0}
+ul.templatebullet{margin:0 0 0 40px;padding:10px 0}
+.joblisting-index #AdDetailsDiv h1 span{color:inherit;display:inherit;font-size:inherit}
+.pt1_border{width:460px;padding:0 0 10px}
+.pt1_header{background:#023467 url(/templates/ptmpl_1_jtbg.gif) repeat-y}
+.pt1_jt{color:#fff;padding:5px 18px 10px 32px;font-style:italic;font-weight:500;font-size:22px;font-family:Verdana,Arial,Helvetica,sans-serif}
+.pt1_text{margin:7px 0 14px 32px;border-top:17px solid #DCE0E9;background:url(/templates/ptmpl_1_textbg.jpg) no-repeat right 28px;padding:10px 14px 0 0}
+.pt1_baseblue{border-left:32px solid #023467;background:#007CBD}
+.pt1_basegrey{margin-left:16px;background:#DCE0E9;color:#DCE0E9;line-height:13px}
+.pt2_border{width:458px;border:1px solid #7D7D7D;background:#BCB39B url(/templates/ptmpl_2_shadowbg.gif)}
+.pt2_header{width:458px;background:#BCB39B url(/templates/ptmpl_2_headerbg.gif);padding-top:7px}
+.pt2_jt{margin:0 17px;border-bottom:8px solid #790000;background:#A00A0F url(/templates/ptmpl_2_jtbg.jpg) no-repeat top right;padding:27px 12px 22px;color:#fff;font-style:italic;font-weight:500;font-size:25px}
+.pt2_redborder{width:458px;background:url(/templates/ptmpl_2_redborder.jpg) no-repeat}
+.pt2_textbg{margin:0 17px;background:#FEFEFD url(/templates/ptmpl_2_textbg.jpg) repeat-x top;padding:1px}
+.pt2_margin{margin:14px}
+.pt2_lines{border-top:7px solid #790000;background:#A00A0F;color:#A00A0F;line-height:8px}
+.pt3_border{width:448px;background:#FFD600 url(/templates/ptmpl_3_border.gif) repeat-y center;padding:0 6px}
+.pt3_header{border-top:6px solid #FFD600;background:#000}
+.pt3_jt{background:url(/templates/ptmpl_3_jtbg.gif) repeat-y left top;padding:10px 14px 10px 23px;color:#B6B7BC;font-weight:500;font-size:26px}
+.pt3_text{background:url(/templates/ptmpl_3_textbg.gif) no-repeat left top;padding:0 0 14px 23px}
+.pt3_margin{margin:10px 10px 0 0}
+.pt4_border{width:460px;background:#4D582E url(/templates/ptmpl_4_border.gif) repeat-x bottom}
+.pt4_header{background:#91A455 url(/templates/ptmpl_4_headerbg.gif) repeat-y right;border-left:14px solid #4D582E;border-top:3px solid #4D582E}
+.pt4_top{background:#4D582E;text-align:right}
+.pt4_jt{background:url(/templates/ptmpl_4_jtbg.gif) no-repeat bottom;color:#fff;padding:8px 30px 48px 17px;font-style:italic;font-weight:500;font-size:24px;font-family:Georgia,"Times New Roman",Times,serif}
+.pt4_text{margin:0 16px 0 14px;background:#DBDED5 url(/templates/ptmpl_4_textbg.gif) repeat-x bottom}
+.pt4_textborder{margin:0 3px 0 2px;border-left:1px solid #92A656;border-right:1px solid #92A656;padding:0 14px}
+.pt5_border{width:458px;border:1px solid #640416;background:url(/templates/ptmpl_5_bg.gif) left repeat-y}
+.pt5_jt{color:#640416;margin:0 30px;font-weight:500;font-size:24px;line-height:24px}
+.pt5_text{margin:0 30px;padding:40px 0 10px 0}
+.pt5_top{width:458px;background:#fff}
+.pt5_body{background:url(/templates/ptmpl_5_textbg.jpg) left top no-repeat}

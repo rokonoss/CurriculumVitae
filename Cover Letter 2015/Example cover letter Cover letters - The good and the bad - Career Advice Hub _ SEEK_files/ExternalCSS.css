@@ -1,0 +1,196 @@
+.seeker-frame{width:750px;left:190px}
+.f-tp,.f-bm,.f-bm-space{width:712px}
+.content{padding:15px 20px 25px;min-height:380px;width:729px}
+.panel{left:0;padding-left:18px!important}
+.panel dt{color:#F00A81;font-weight:bold;padding:4px 0 3px}
+.panel dd{padding-bottom:6px}
+.panel .selected{font-weight:bold}
+.related-links dd{background:url(/content/images/icons/icons_arrows_bullets_2.png) no-repeat}
+.related-links dl{margin-bottom:30px}
+.related-links dt{background-color:#559BCD;color:#FFF;font-weight:bold;padding:5px}
+.related-links dd{padding:4px 0 0 15px;background-position:6px -707px}
+.related-links .nolist dd,.related-links dd.nolist{background-image:none}
+.investor small{margin-top:20px}
+.investor li{list-style:disc;margin-left:30px}
+.investor ol li{list-style:decimal}
+.investor h3{color:#f00a81;font-weight:bold;font-size:12px;margin-bottom:0}
+.employment-index .article{width:455px}
+.employment-index .article-side{width:202px}
+.au .employment-index .article-side h3:first-child,.market-research .content dl dt:first-child{background-position:0 -1718px;height:22px}
+.au .employment-index .article-side h3,.market-research .content dl dt{background-position:0 -1565px;padding-left:50px;height:35px}
+.employment-index .article-side>div,.employment-index .article-side strong,.employment-index .article-side p{padding-left:50px}
+.employment-index .article-side p{margin-top:-5px}
+.employment-index .investor .article-side div ul li{background-position:0 -711px;list-style:none;margin-left:2px;padding-left:10px}
+.nz .employment-index .article-side h3:first-child{background-position:0 -1565px;padding-left:50px;height:35px}
+ul.employment-index-video{padding-bottom:30px}
+.employment-index-video>li{list-style:none;margin:0}
+.employment-index-video dt{color:#212121;font-size:14px;margin:6px 0}
+.past-employment-index .employment-index-video{min-height:280px}
+.employment-index-subscribe li{list-style:none;position:relative;padding-top:12px;margin-left:0}
+.employment-index-subscribe label{position:absolute;width:90px}
+.employment-index-subscribe input+label{position:relative;width:auto;color:#000;padding-left:5px}
+.employment-index-subscribe input{margin-left:100px}
+.employment-index-subscribe strong input{margin-left:0}
+.employment-index-subscribe small{display:inline-block;padding-top:0;position:relative;top:6px;left:5px}
+.employment-index-subscribe .form-msg ul{display:none}
+.employment-index-subscribe .field-msg{position:relative;left:-3px;margin-bottom:10px}
+.market-research .content dl{position:absolute;top:52px;right:38px;width:202px}
+.market-research .content dl dt{color:#f00a81;font-weight:bold;font-size:16px}
+.market-research .content p{margin-right:240px}
+.market-research .content dl dd ul li{background-position:6px -707px;list-style:none;margin-left:0;padding:4px 0 0 15px}
+.market-research .content dl dd{margin-left:52px;padding-bottom:22px;margin-top:-3px}
+.market-research .content dl dt+dd+dt+dd{margin-top:-15px}
+.market-research .content em{margin-left:10px;display:block;margin-right:240px}
+.market-research .content h2+p+h2{color:#f00a81;margin-top:16px}
+.au .distribution-partners .content dt{background-image:url(/content/images/logos/Partner-Logos-Au.png)}
+.nz .distribution-partners .content dt{background-image:url(/content/images/logos/Partner-Logos-Nz.png)}
+.distribution-partners .content dt{background-repeat:no-repeat;width:180px;height:60px;padding:10px 0;display:inline-block}
+.distribution-partners .content dd{display:inline-block;width:450px;font-weight:bold;vertical-align:top;padding-left:20px}
+.distribution-partners .content dd a{display:block;font-weight:normal}
+.distribution-partners .msn-nz{background-position:0 -845px}
+.nz .distribution-partners .google{background-position:0 -548px}
+.au .distribution-partners .google{background-position:0 -1210px}
+.distribution-partners .yahooxtra{background-position:0 -1475px}
+.distribution-partners .nzica{background-position:0 -118px}
+.distribution-partners .throng{background-position:0 -1263px}
+.distribution-partners .geekzone{background-position:0 -448px}
+.distribution-partners .kiwiblog{background-position:0 -765px}
+.distribution-partners .mta{background-position:0 0}
+.distribution-partners .pundit{background-position:0 -1065px}
+.distribution-partners .public-address{background-position:0 -955px}
+.distribution-partners .scoop{background-position:0 -1153px}
+.nz .distribution-partners .facebook{background-position:0 -338px}
+.au .distribution-partners .facebook{background-position:0 -1100px}
+.distribution-partners .cmpmedia{background-position:0 -228px}
+.distribution-partners .healthpoint{background-position:0 -658px;width:180px}
+.nz .distribution-partners .yahoo{background-position:0 -1365px}
+.au .distribution-partners .yahoo{background-position:-181px -1285px}
+.distribution-partners .ninemsn{background-position:0 -1874px}
+.distribution-partners .yahoo-search{background-position:-181px -1175px}
+.distribution-partners .mav{background-position:0 -1764px}
+.distribution-partners .diird{background-position:0 -765px}
+.distribution-partners .pcc{background-position:-181px 0}
+.distribution-partners .mavvic{background-position:0 -1654px}
+.distribution-partners .htav{background-position:0 -1430px}
+.distribution-partners .voea{background-position:-181px -990px}
+.distribution-partners .ptj{background-position:-181px -220px}
+.distribution-partners .eta{background-position:0 -990px}
+.distribution-partners .ptc{background-position:-181px -330px}
+.distribution-partners .asta{background-position:0 -770px}
+.distribution-partners .primary{background-position:-181px -110px}
+.distribution-partners .slav{background-position:-181px -770px}
+.distribution-partners .academics{background-position:0 0}
+.distribution-partners .christian{background-position:0 -880px}
+.distribution-partners .vate{background-position:-181px -880px}
+.distribution-partners .ais{background-position:0 -440px}
+.distribution-partners .aisq{background-position:0 -550px}
+.distribution-partners .aisw{background-position:0 -330px}
+.distribution-partners .anf{background-position:0 -660px}
+.distribution-partners .ada{background-position:0 -220px}
+.distribution-partners .psa{background-position:-181px -550px}
+.distribution-partners .acs{background-position:0 -110px}
+.distribution-partners .hsu{background-position:0 -1320px}
+.distribution-partners .law-society{background-position:0 -1540px}
+.distribution-partners .sky-news{background-position:-181px -660px}
+.distribution-partners .weather{background-position:-181px -1065px}
+.distribution-partners .acs{background-position:0 -660px}
+.building-an-employer-brand-online-with-SEEK .side-templates{background:url(/content/images/other/article_buildingbrand.jpg) right top no-repeat}
+.content{min-height:650px}
+.dreamjob{width:500px;overflow:hidden;clear:both;padding-top:15px}
+.dreamjob ul{padding-bottom:10px}
+.dreamjob>div{width:220px;margin-right:10px;display:inline-block;vertical-align:top;*display:inline;*zoom:1}
+.dreamjob h2+p{padding-left:60px;min-height:58px;background-image:url(/content/images/icons/icons_resources.png);background-repeat:no-repeat;background-position:0 -106px}
+.dreamjob h2+div h2+p{background-position:top left}
+#SkyscraperBanner{width:180px;float:right;margin-top:-320px;margin-right:30px;height:600px;width:160px}
+.related-links dl{margin-bottom:30px}
+.related-links dt{background-color:#559BCD;color:#FFF;font-weight:bold;padding:2px 5px}
+.related-links dd{padding:4px 0 0 15px;background-position:6px -707px}
+.related-links .nolist dd,.related-links dd.nolist{background-image:none}
+.article,.article-side{display:inline-block;vertical-align:top;position:relative}
+.article{width:462px}
+.article-side{width:222px;margin-left:14px}
+.article blockquote{font-weight:bold;position:absolute;right:-272px;margin-top:233px;width:190px}
+.article blockquote p{margin-top:-282px;right:-205px}
+.articleexpert a{color:#06c;font-size:14px;font-weight:bold;margin-top:6px;width:475px;padding-right:10px}
+.article blockquote .workexp{margin-top:-269px}
+.article blockquote .workexp p{margin-top:10px}
+.wider-article{width:560px}
+.article ol li{list-style:decimal;margin-left:19px;margin-bottom:10px}
+ol.onsiteregmanlist li{list-style:decimal outside none;margin-left:22px}
+ul.motivate li{list-style:disc;margin-left:20px}
+.article blockquote .coverletter{margin-top:-195px}
+.article blockquote .coverletter-admin{margin-top:-129px}
+.article blockquote .coverletter-msgrad{margin-top:-288px}
+.article blockquote .coverletter-editor{margin-top:-474px}
+.letteradmin-jobad{width:370px;border:1px solid #000;font-size:9pt;font-family:Arial;padding:10px 10px}
+.article blockquote .coverletter-interviewguide{margin-top:-195px}
+.article blockquote .coverletter-interviewguide p{margin-top:-35px}
+.article blockquote .resume-guide{margin-top:-186px}
+.article blockquote .resume-guide p{margin-top:-74px}
+.article blockquote .resume-tips{margin-top:-290px}
+.article blockquote .resume-tips p{margin-top:30px}
+.article blockquote .resume-tips p2{margin-top:-58px}
+.article blockquote .resume-interview{margin-top:-205px}
+.article blockquote .resume-interview p{margin-top:-15px}
+.article blockquote .career-trans{margin-top:-275px}
+.article blockquote .career-trans p{margin-top:-15px}
+.article blockquote .handy-review{margin-top:-237px}
+.article blockquote .handy-review p{margin-top:-15px}
+.article blockquote .creative-careers{margin-top:-237px}
+.article blockquote .creative-careers p{margin-top:-15px}
+.article blockquote.skills-shortagenz{margin-top:80px}
+.article blockquote .skills-shortagenz p{margin-top:-15px}
+.article blockquote .future-work{margin-top:-237px}
+.article blockquote .future-work p{margin-top:24px}
+.article blockquote .mckenna-review{margin-top:-168px}
+.article blockquote .mckenna-review p{margin-top:-41px}
+.article blockquote.happy{margin-top:-168px}
+.article blockquote.happy p{margin-top:-41px}
+.article blockquote .salary-neg{margin-top:-320px}
+.article blockquote .salary-neg p{margin-top:96px}
+.article blockquote .quit{margin-top:-263px}
+.article blockquote .quit p{margin-top:43px}
+.article blockquote .unemploy{margin-top:-236px}
+table.interview td{vertical-align:top}
+table.interview td:first-child{padding-right:10px}
+#IndependentCompanyReport{min-height:800px}
+.content{min-height:650px}
+.plan-develop{width:470px;overflow:hidden;clear:both;padding-top:15px}
+.plan-develop ul{padding-bottom:10px;width:220px;display:inline-table;*display:inline;*zoom:1}
+.plan-develop>div{background-color:#DEF;width:450px;margin-bottom:20px}
+.plan-develop div select{margin-bottom:0;padding-bottom:0}
+.plan-develop #GoLink{position:relative;top:-7px}
+h2.development{background-color:#fff;padding:19px 0 10px 0;border-top:1px solid #d7d7d7}
+h2.development span{padding:5px 5px 15px 6px}
+.sklenroluni{display:inline-block;vertical-align:top;width:195px;*display:inline;*zoom:1}
+.article blockquote .workbabe{margin-top:62px}
+.article blockquote .workbabe p{margin-top:85px}
+.article blockquote .merger p{margin-top:-394px}
+.workbaby-quote{text-align:left;margin-left:180px;width:170px;font-weight:bold}
+.article ul.skillsshort li{list-style:none inside disc;margin-left:14px;padding-left:5px;list-style-position:outside}
+#pdSkyscraperBanner{width:180px;margin-top:16px;margin-right:30px;height:600px;width:160px;display:inline-block;*display:inline;*zoom:1}
+.superannuation-index{padding-top:15px;position:relative;background:url(/content/images/other/jobsresouces-apple.jpg) no-repeat;background-position:498px 15px}
+#SuperContent{width:500px;margin-top:30px}
+#SuperContent li{padding-bottom:30px}
+#SuperContent h2{color:#212121;font-weight:normal;padding:8px 0 8px 40px;background:url(/content/images/icons/icons_bluedots.png) no-repeat}
+#SuperContent h2.step-two{background-position:0 -72px}
+#SuperContent h2.step-three{background-position:0 -143px}
+#SuperContent h2.step-four{background-position:0 -216px}
+#SuperContent h2.step-five{background-position:0 -288px}
+.superannuation-index h3{font-size:22px}
+.superannuation-index h3 span{font-size:14px;padding-top:5px}
+.superannuation-index h3 img{margin:5px 0 0 17px}
+#SuperContent ul{display:none}
+#SuperContent ul li{position:relative;margin-top:10px;padding-bottom:10px}
+#SuperContent ul li a.collapse-link{position:absolute;top:0;right:0}
+.super-disclaimer{padding-top:20px;font-size:10px}
+.super-linkouts{width:162px;position:absolute;top:180px;right:5px}
+.super-linkouts ul li{margin-left:14px;list-style-type:disc}
+.super-linkouts>li{padding:10px 0}
+.super-linkouts img{padding:15px 0}
+a.expand-link,a.collapse-link{background:url(/content/images/icons/icons_arrows_bullets_2.png) no-repeat 0 -534px;padding-left:10px}
+a.collapse-link{background-position:0 -622px;padding-left:12px}
+.article-newsmedia,.newsmedia-article-side{display:inline-block;vertical-align:top;position:relative;*display:inline;*zoom:1}
+.article-newsmedia{width:513px;padding-right:10px}
+.newsmedia-article-side{width:162px}
+.article-newsmedia span{line-height:20px}

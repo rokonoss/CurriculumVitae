@@ -1,0 +1,122 @@
+#searchBoxContainer select:disabled option:checked,#searchBoxContainer option:disabled:checked{color:#fff}
+[id*="searchBoxContainer"]{position:relative;z-index:2;background:#0d3880}
+.advancedSearch{height:345px}
+.miniSearch{height:63px}
+.quickSearch{height:170px}
+.searchBox{color:#fff;height:100%}
+[id*="searchBoxContainer"] .sb-side-left,[id*="searchBoxContainer"] .sb-side-right{background-color:#0051d6}
+[id*="searchBoxContainer"] [class^="sb-"],.sbc-subclassification,.sbc-area{display:block;background-image:url(/content/images/layout/searchbox-bg.png);background-repeat:no-repeat;background-position:0 0;position:absolute}
+[id*="searchBoxContainer"] [class*="-top"]{top:0;height:25px;width:3px}
+[id*="searchBoxContainer"] [class*="-btm"]{bottom:-25px;height:25px;width:3px}
+[id*="searchBoxContainer"] [class*="-right"]{right:0}
+[id*="searchBoxContainer"] [class*="-left"]{left:0}
+[id*="searchBoxContainer"] [class*="-spacer"]{width:100%}
+[id*="searchBoxContainer"] .sb-top-spacer{z-index:-1}
+[id*="searchBoxContainer"] .sb-top-left{background-position:-80px -30px}
+[id*="searchBoxContainer"] .sb-top-right{background-position:-110px -30px}
+[id*="searchBoxContainer"] .sb-btm-right{background-position:-110px -60px}
+[id*="searchBoxContainer"] .sb-btm-spacer{background-position:0 bottom;z-index:-1}
+[id*="searchBoxContainer"] .sb-btm-left{background-position:-80px -60px}
+[id*="searchBoxContainer"] .sb-side-left,[id*="searchBoxContainer"] .sb-side-right{top:25px;bottom:0;width:1px;height:100%;border-left:1px solid #00007f;background-position:-994px bottom}
+[id*="searchBoxContainer"] .sb-side-right{border-right:1px solid #00007f}
+[class^="sbc-"]{width:252px;position:absolute}
+.sbc-keywords{left:21px;top:18px}
+.sbc-classification{left:288px;top:18px}
+.sbc-function,.sbc-location{left:568px;top:18px}
+.sbc-subclassification{left:288px;top:60px}
+.sbc-area{left:568px;top:60px}
+.sbc-worktype{left:21px;top:145px}
+.sbc-date{left:21px;top:203px}
+.sbc-salary{left:21px;top:70px}
+.sbc-buttons{left:15px;top:135px;width:100%}
+.salaryDisabled [id*="salaryfrom"],.salaryDisabled [id*="salarytolabel"],.salaryDisabled [id*="salaryto"],[id*="salaryDisabled"],.quickSearch #AdvSearch,.quickSearchTop,.quickSearch .quickSearchBottom,.quickSearch #unspecLabel,.quickSearch .multiselect,.quickSearch #PostCodeButton,.quickSearch .moresearchtips,.quickSearch .pcsearch,.quickSearch [id*="salaryMessageLabel"],.quickSearch .sbc-worktype,.quickSearch .sbc-date,.miniSearch .quickSearchBottom,.miniSearch #AdvSearch,.miniSearch #bottomAdvSearch,.miniSearch .moresearchtips,.miniSearch .multiselect,.miniSearch #unspecLabel,.miniSearch .searchBox label,.miniSearch .pcsearch,.miniSearch [id*="salaryMessageLabel"],.miniSearch .sbc-buttons p,.miniSearch .sbc-worktype,.miniSearch .sbc-date,.advancedSearch [id*="SearchButton"],.advancedSearch .adv-search-link,.advancedSearch .sbc-buttons p,.salaryDisabled #salaryLabel,#salaryMessageLabel{display:none}
+.sbc-subclassification,.sbc-area{background-position:-1995px -32px;padding-left:20px;padding-top:10px;width:245px}
+.searchBox label{color:#fff;font-weight:bold;font-size:14px;display:block;text-align:left;padding-bottom:2px}
+.searchBox input,.searchBox select{font-size:11px}
+.searchBox input{width:241px}
+.searchBox #Keywords{height:17px}
+.searchBox select{width:251px}
+.sbc-salary select{width:115px}
+.sbc-subclassification select,.sbc-area select{width:244px}
+.sbc-classification select,.sbc-location select,.sbc-function select{width:264px}
+a.adv-search-link,a.quickSearchBottom{font-weight:bold;color:#FFF}
+.searchbox a.adv-search-link{background-position:5px -1971px;padding-left:15px}
+.sbc-buttons p{padding-left:15px}
+#AdvSearch,#bottomAdvSearch,[id*="SearchButton"]{position:absolute;left:747px;bottom:0}
+[id*="SearchButton"] input{width:auto}
+.searchBox .moresearchtips{position:absolute;right:0;top:3px}
+.searchBox .multiselect{position:absolute;left:20px;bottom:-13px}
+.searchBox [id*="unspecLabel"]{position:absolute;left:20px;bottom:-10px;font-weight:normal}
+.searchBox [id*="unspecLabel"] .unspecArea{width:auto;vertical-align:middle;margin-top:-2px}
+[id*="salarytolabel"]{vertical-align:middle;margin:0 2px 0 3px}
+.salaryDisabled [id*="salaryDisabled"],.salaryDisabled #salaryMessageLabel{display:block}
+.salaryDisabled [id*="salaryDisabled"]{margin-bottom:-15px}
+.salaryDisabled #salaryMessageLabel{font-size:14px}
+.quickSearch .sbc-subclassification label,.quickSearch .sbc-area label,.quickSearch .sbc-salary label,.quickSearch .sbc-worktype label{font-size:12px}
+.advancedSearch .sbc-subclassification,.advancedSearch .sbc-area{top:127px}
+.advancedSearch .sbc-salary{top:77px}
+.advancedSearch .sbc-worktype{top:137px}
+.advancedSearch .sbc-date{top:265px}
+.advancedSearch .sbc-buttons{top:327px}
+.advancedSearch .quickSearchBottom{background-position:5px -1971px;padding-left:20px}
+.advancedSearch [id*="salaryMessageLabel"]{position:absolute;z-index:5;top:38px;left:0;font-size:10px;font-weight:bold;color:#ccc}
+.advancedSearch .moresearchtips,.advancedSearch .multiselect,.advancedSearch [id*="unspecLabel"],.advancedSearch [id*="PostCodeButton"]{font-size:10px;color:#fff}
+.miniSearch .grad-search-link{background:0;color:#fff}
+.miniSearch .sbc-keywords,.miniSearch .sbc-function,.miniSearch .sbc-classification,.miniSearch .sbc-location{top:15px}
+.miniSearch .sbc-subclassification,.miniSearch .sbc-area{top:40px}
+.miniSearch .sbc-worktype{top:90px}
+.miniSearch .sbc-date{top:65px}
+.miniSearch .sbc-salary{top:50px}
+.miniSearch .sbc-buttons{left:840px;top:17px;width:140px;height:100%}
+.miniSearch [id*="SearchButton"]{top:25px;left:0;bottom:auto}
+.miniSearch [id*="SearchButton"] input{font-size:12px;height:27px}
+.miniSearch a.adv-search-link,a.adv-search-link{background-position:5px -1334px;padding-left:15px}
+[id*="PostCodeSearch"]{display:none;position:absolute;left:-1px;top:26px;-moz-box-shadow:4px 4px 4px #A2A2A2;-webkit-box-shadow:4px 4px 4px #A2A2A2;box-shadow:4px 4px 4px #A2A2A2;background-color:#FFF;border:1px solid #CCC;width:234px;z-index:100;padding:0 15px 10px}
+#PostCodeButton{z-index:100}
+[id*="PostCodeSearch"] [id*="PostCodeResults"]{z-index:50;position:relative;display:none}
+[id*="PostCodeSearch"] [id*="PostCodeResults"] h4{font-weight:bold;margin:8px 0 4px 0;color:#000}
+[id*="PostCodeSearch"] [id*="PostCodeNoResults"]{z-index:50;position:relative;display:none;font-weight:bold;margin:8px 0 4px 0}
+[id*="PostCodeSearch"] [id*="PostCodeResults"] a{position:relative}
+[id*="PostCodeSearch"] [id*="PostCodeForm"] label{margin:4px;color:#212121;width:auto;font-weight:normal}
+[id*="PostCodeSearch"] [id*="PostCodeForm"] small{top:0;display:block}
+[id*="PostCodeSearch"] [id*="PostCodeSubmit"]{z-index:50;position:relative;display:inline-block;float:none;bottom:0;right:0}
+[id*="PostCodeSearch"] #ResultDetails li{padding:2px;margin:0;list-style:none}
+[id*="PostCodeSearch"] #ResultDetails li a{float:none}
+a[id*="ClosePostcode"]{top:12px;right:6px;position:absolute}
+[id*="PostCodeSearch"] h2{color:#F00A81;font-size:18px;font-weight:normal;margin-bottom:16px}
+.searchBox [id*="PostCodeButton"]{position:absolute;right:0;top:13px;color:#FFF}
+.browse-search a[id*="ClosePostcode"]{top:10px;right:10px;position:absolute;float:none}
+.jobsearch-browse [id*="PostCodeSearch"] [id*="PostCodeSubmit"]{position:relative;right:0;bottom:0}
+.jobmail-profile-pages [id*="searchBoxContainer"] [class^="sb-"]{display:none}
+.jobmail-profile-pages .searchBox .moresearchtips,.jobmail-profile-pages .searchBox [id*="PostCodeButton"]{color:#06c;top:12px}
+.jobmail-profile-pages .searchBox [id*="PostCodeButton"]{top:17px}
+.jobmail-profile-pages .searchBox .multiselect,.jobmail-profile-pages .searchBox [id*="salarytolabel"]{color:#000}
+.jobmail-profile-pages .searchBox #unspecLabel{font-size:10px}
+.jobmail-profile-pages .advancedSearch [id*="salaryMessageLabel"]{color:#000;top:48px}
+.jobmail-profile-pages .searchBox #Keywords{width:254px}
+.jobmail-profile-pages .sbc-buttons{display:none}
+.jobmail-profile-pages .sbc-keywords{left:1px;top:0;width:265px}
+.jobmail-profile-pages .sbc-classification,.jobmail-profile-pages .sbc-function{left:1px;top:65px}
+.jobmail-profile-pages .sbc-subclassification{left:1px;top:185px;padding-top:5px}
+.jobmail-profile-pages .sbc-location{left:295px;top:65px}
+.jobmail-profile-pages .sbc-area{left:295px;top:185px;padding-top:5px}
+.jobmail-profile-pages .sbc-worktype{left:1px;top:325px}
+.jobmail-profile-pages .sbc-worktype select{width:264px}
+.jobmail-profile-pages .sbc-date{left:295px;top:385px}
+.jobmail-profile-pages .sbc-salary{left:295px;top:325px}
+.jobmail-profile-pages .mod-submit-search{display:none}
+.jobmail-profile-pages.jobmail .sbc-date{display:none}
+.Main .myaccount-createnewjobmail .classificationQuestion span span{margin:0}
+.Main .myaccount-createnewjobmail .classificationQuestion strong{font-weight:normal;color:#F00A81}
+.jobmail-profile-pages.savedsearch .classificationQuestion{top:148px}
+.onsite #AdvSearchLink,.onsite .sbc-subclassification,.onsite .sbc-salary,.onsite .sbc-buttons p{display:none}
+.onsite .sbc-worktype{display:block;top:122px;left:21px}
+.onsite .sbc-classification{top:70px;left:21px}
+.onsite .sbc-classification select{width:251px}
+.onsite .sbc-location{top:18px;left:290px}
+.onsite .sbc-area{top:60px;left:290px}
+.onsite .sbc-buttons{top:167px}
+.onsite #SearchButton{left:471px}
+.highpayingjobs-index .sbc-classification,.highpayingjobs-index .sbc-subclassification{left:300px}
+.highpayingjobs-index .sbc-location,.highpayingjobs-index .sbc-area{left:600px}
+.highpayingjobs-index #AdvSearch,.highpayingjobs-index [id*="SearchButton"]{left:780px}

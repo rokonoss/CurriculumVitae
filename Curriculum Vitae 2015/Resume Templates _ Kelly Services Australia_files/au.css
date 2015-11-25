@@ -1,0 +1,13 @@
+#logo
+		{
+			background-image: url('/templates/images/X0614_kelly.jpg');
+            background-repeat: no-repeat;
+			/*margin-top:34px;*/ /* remove for responsive */
+			width:115px;
+			height:55px;
+			float:left;
+		}
+#footerlogoimage{background:url("/templates/images/FooterLogo_KellyOnly.gif");width:59px;height:37px;}
+.WidgetContent {
+    font-size: 16px;
+}
